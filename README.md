@@ -4,7 +4,7 @@ A console-based **Movie Ticket Booking System** developed in **C++** using **Obj
 
 This project was developed as part of the **TCS-504 System Design coursework** and demonstrates how real-world requirements can be converted into a modular software design.
 
----
+
 
 ## 📌 Project Overview
 
@@ -81,7 +81,7 @@ The system handles situations such as:
 - Cancelling a booking
 - Attempting to book an already booked seat
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -91,7 +91,6 @@ The system handles situations such as:
 - **IDE:** Visual Studio Code
 - **Compiler:** g++
 
----
 
 ## 🧩 OOP Concepts Used
 
@@ -107,19 +106,19 @@ Examples:
 - `Booking`
 - `Cinema`
 
----
+
 
 ### 2. Abstraction
 
 The `Payment` class provides a common interface for payment operations while hiding the implementation details of individual payment methods.
 
----
+
 
 ### 3. Inheritance
 
 Different payment classes inherit from the base `Payment` class.
 
-```text
+
              Payment
             /   |   \
            /    |    \
